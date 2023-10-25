@@ -1,7 +1,7 @@
 local Config = require("generate-hashtags.config")
 local P = {}
 
--- Concatena a list
+-- Concatenate a list
 local concatenate = function(hashtags_array)
 	local result = ""
 
