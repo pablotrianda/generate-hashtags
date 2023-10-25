@@ -12,7 +12,7 @@ Install the plugin with your preferred package manager:
 ```lua
 -- Lua
 {
-	"pablotrianda/generateTags",
+	"pablotrianda/generate-hastags",
 	config = true,
 	opts = {
 		notAllowedWords = {
