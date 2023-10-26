@@ -1,6 +1,6 @@
-# 💬 Generate hastags
+# 💬 Generate hashtags
 
-Generate a hastags list with the text in the current buffer using the repeated words
+Generate a hashtags list with the text in the current buffer using the repeated words
 
 
 ## 📦 Installation
