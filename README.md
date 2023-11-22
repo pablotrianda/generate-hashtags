@@ -1,8 +1,6 @@
 # 💬 Generate hashtags
 
 Generate a hashtags list with the text in the current buffer using the repeated words
-[![asciicast](https://asciinema.org/a/UUkk7oeSCZPpp0QwKdGA948uL.svg)](https://asciinema.org/a/UUkk7oeSCZPpp0QwKdGA948uL)
-
 
 ## 📦 Installation
 
